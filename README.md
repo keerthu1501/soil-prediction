@@ -40,3 +40,4 @@ A confusion matrix is a table that is often used to describe the performance o
 CONCLUSION :
 From the analysis of the data with respect to classification, it can be stated with high confidence that the soil contamination is a prevalent problem. This contamination is characterized by especially high concentrations of Sodium, phosphorous and PH level. The dataset was analyzed and worked upon. Classification of soil sample contamination is one that is constantly undergoing change. Most available data uses hierarchical classification to determine clusters of samples, along with principal component analysis. SVM and Naïve Bayes were used to collectively predict the contamination of the soil yielding desirable results with maximum accuracy. 
 
+# aws_demo
